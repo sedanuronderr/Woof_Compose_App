@@ -1,5 +1,5 @@
 # Woof_Compose_App
-Compose , Lazy Column ,Compose-UI ,Scaffold teknolojileri kullanıldı.
+Compose , Lazy Column ,Compose-UI ,Scaffold  Jetpack libraries were used in the project.
 
 
 <table>
